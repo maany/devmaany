@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PersonalWebsite.iml" filepath="$PROJECT_DIR$/PersonalWebsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/legacyui.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/legacyui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/api/legacyui-api.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/api/legacyui-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/omod/legacyui-omod.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/omod/legacyui-omod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/oauth2.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api/oauth2-api.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api/oauth2-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/oauth2-omod.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/oauth2-omod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/openmrs.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/openmrs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/api/openmrs-api.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/api/openmrs-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/test/openmrs-test.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/test/openmrs-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/tools/openmrs-tools.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/tools/openmrs-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/web/openmrs-web.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/web/openmrs-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/webapp/openmrs-webapp.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/webapp/openmrs-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AppEngineTest/springwebapp.iml" filepath="$PROJECT_DIR$/../AppEngineTest/springwebapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/webservices.rest.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/webservices.rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod/webservices.rest-omod.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod/webservices.rest-omod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.10/webservices.rest-omod-1.10.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.10/webservices.rest-omod-1.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.11/webservices.rest-omod-1.11.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.11/webservices.rest-omod-1.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.8/webservices.rest-omod-1.8.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.8/webservices.rest-omod-1.8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.9/webservices.rest-omod-1.9.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.9/webservices.rest-omod-1.9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-2.0/webservices.rest-omod-2.0.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-2.0/webservices.rest-omod-2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-common/webservices.rest-omod-common.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-common/webservices.rest-omod-common.iml" />
+    </modules>
+  </component>
+</project>

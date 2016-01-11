@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../AppEngineTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-legacyui/omod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.10" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.11" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.8" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-1.9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-2.0" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/openmrs-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+  </component>
+</project>
