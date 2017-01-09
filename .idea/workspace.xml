@@ -2,41 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89c4b3be-b0d6-499e-b784-2c596111dba0" name="Default" comment="Major Update for Grad School Admissions">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_mxj_5_0_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openmrs_api_openmrs_api_1_11_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openmrs_api_openmrs_api_tests_1_11_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openmrs_web_openmrs_web_1_11_1.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/WEB-INF/appengine-generated/datastore-indexes-auto.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/plugins/bootstrap/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/plugins/bootstrap/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/plugins/github-activity/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/plugins/jquery-rss/.gitignore" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api/src/main/java/org/openmrs/module/oauth2/api/impl/ClientRegistrationServiceImpl.java" afterPath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api/src/main/java/org/openmrs/module/oauth2/api/impl/ClientRegistrationServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api/src/test/java/org/openmrs/module/oauth2/api/ClientRegistrationServiceTest.java" afterPath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/api/src/test/java/org/openmrs/module/oauth2/api/ClientRegistrationServiceTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/src/main/java/org/openmrs/module/oauth2/web/controller/ClientRegistrationFormController.java" afterPath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/src/main/java/org/openmrs/module/oauth2/web/controller/ClientRegistrationFormController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/src/main/java/org/openmrs/module/oauth2/web/util/CollectionPropertyEditor.java" afterPath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/src/main/java/org/openmrs/module/oauth2/web/util/CollectionPropertyEditor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/src/main/webapp/index.jsp" afterPath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/src/main/webapp/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../OpenMRS/release/openmrs-distro-platform/pom.xml" afterPath="$PROJECT_DIR$/../OpenMRS/release/openmrs-distro-platform/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="9c4fb066-1900-4f98-b3b6-cd7123a61b84" name="Failed commit: Default" comment="update intro, education, add project section for CERN">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/assets/images/projects/project-featured.jpg" afterPath="$PROJECT_DIR$/src/main/webapp/assets/images/projects/project-featured.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/images/projects/project-featured.jpg" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/images/projects/project-featured.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PersonalWebsite.iml" afterPath="$PROJECT_DIR$/PersonalWebsite.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/assets/css/styles.css" afterPath="$PROJECT_DIR$/src/main/webapp/assets/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/WEB-INF/appengine-web.xml" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/WEB-INF/appengine-web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/css/styles.css" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/assets/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/index.html" afterPath="$PROJECT_DIR$/target/site-1.0-SNAPSHOT/index.html" />
     </list>
+    <list id="9c4fb066-1900-4f98-b3b6-cd7123a61b84" name="Failed commit: Default" comment="update intro, education, add project section for CERN" />
     <ignored path="PersonalWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,7 +50,6 @@
     <ignored path="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype/omod/target/" />
     <ignored path="$PROJECT_DIR$/../OpenMRS/release/openmrs-distro-platform/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/src/main/webapp/index.html" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,8 +88,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="847" column="160" selection-start-line="847" selection-start-column="160" selection-end-line="847" selection-end-column="160" />
+            <state relative-caret-position="228">
+              <caret line="198" column="74" selection-start-line="198" selection-start-column="74" selection-end-line="198" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -1362,7 +1346,7 @@
       <workItem from="1482406299797" duration="1177000" />
       <workItem from="1482575233749" duration="8578000" />
       <workItem from="1483942352431" duration="7825000" />
-      <workItem from="1483954705691" duration="13926000" />
+      <workItem from="1483954705691" duration="17472000" />
     </task>
     <task id="LOCAL-00001" summary="update maven-release-plugin version to 2.2 as it fixes the following issue : https://issues.apache.org/jira/browse/MRELEASE-579">
       <created>1452008773391</created>
@@ -1410,11 +1394,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130293000" />
+    <option name="totallyTimeSpent" value="133839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="24" width="1869" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1431,7 +1415,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24904004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24904004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967636" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1853,8 +1837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="847" column="160" selection-start-line="847" selection-start-column="160" selection-end-line="847" selection-end-column="160" />
+        <state relative-caret-position="228">
+          <caret line="198" column="74" selection-start-line="198" selection-start-column="74" selection-end-line="198" selection-end-column="74" />
           <folding />
         </state>
       </provider>
