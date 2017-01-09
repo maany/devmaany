@@ -6,5 +6,6 @@
     <mapping directory="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-oauth2-prototype" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../OpenMRS/openmrs-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../OpenMRS/release/openmrs-distro-platform" vcs="Git" />
   </component>
 </project>

@@ -17,149 +17,54 @@
       <profile default="true" name="Default" enabled="false">
         <processorPath useClasspath="true" />
       </profile>
-      <profile default="false" name="Annotation profile for PersonalWebsite" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="PersonalWebsite" />
-      </profile>
-      <profile default="false" name="Annotation profile for springwebapp" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="springwebapp" />
-      </profile>
-      <profile default="false" name="Annotation profile for openmrs-tools" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="openmrs-tools" />
-      </profile>
-      <profile default="false" name="Annotation profile for openmrs-api" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="openmrs-api" />
-      </profile>
-      <profile default="false" name="Annotation profile for openmrs-web" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="openmrs-web" />
-      </profile>
-      <profile default="false" name="Annotation profile for openmrs-webapp" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="openmrs-webapp" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod-1.8" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod-1.8" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod-1.9" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod-1.9" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod-1.10" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod-1.10" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod-1.11" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod-1.11" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod-common" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod-common" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod" />
-      </profile>
-      <profile default="false" name="Annotation profile for webservices.rest-omod-2.0" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="webservices.rest-omod-2.0" />
-      </profile>
-      <profile default="false" name="Annotation profile for legacyui-omod" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="legacyui-omod" />
-      </profile>
-      <profile default="false" name="Annotation profile for legacyui-api" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="legacyui-api" />
-      </profile>
-      <profile default="false" name="Annotation profile for oauth2-api" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
+        <module name="legacyui-omod" />
         <module name="oauth2-api" />
-      </profile>
-      <profile default="false" name="Annotation profile for oauth2-omod" enabled="true">
-        <sourceOutputDir name="target\generated-sources\annotations" />
-        <sourceTestOutputDir name="target\generated-test-sources\test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
         <module name="oauth2-omod" />
+        <module name="openmrs-api" />
+        <module name="openmrs-tools" />
+        <module name="openmrs-web" />
+        <module name="openmrs-webapp" />
+        <module name="PersonalWebsite" />
+        <module name="springwebapp" />
+        <module name="webservices.rest-omod" />
+        <module name="webservices.rest-omod-1.10" />
+        <module name="webservices.rest-omod-1.11" />
+        <module name="webservices.rest-omod-1.8" />
+        <module name="webservices.rest-omod-1.9" />
+        <module name="webservices.rest-omod-2.0" />
+        <module name="webservices.rest-omod-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="legacyui" target="1.5" />
-      <module name="legacyui-api" target="1.8" />
-      <module name="legacyui-omod" target="1.8" />
+      <module name="legacyui-api" target="1.5" />
+      <module name="legacyui-omod" target="1.5" />
       <module name="oauth2" target="1.5" />
-      <module name="oauth2-api" target="1.6" />
-      <module name="oauth2-omod" target="1.6" />
+      <module name="oauth2-api" target="1.5" />
+      <module name="oauth2-omod" target="1.5" />
       <module name="openmrs" target="1.5" />
-      <module name="openmrs-api" target="1.8" />
+      <module name="openmrs-api" target="1.5" />
       <module name="openmrs-test" target="1.5" />
-      <module name="openmrs-tools" target="1.8" />
-      <module name="openmrs-web" target="1.8" />
-      <module name="openmrs-webapp" target="1.8" />
+      <module name="openmrs-tools" target="1.5" />
+      <module name="openmrs-web" target="1.5" />
+      <module name="openmrs-webapp" target="1.5" />
       <module name="PersonalWebsite" target="1.7" />
+      <module name="platform" target="1.5" />
       <module name="springwebapp" target="1.7" />
       <module name="webservices.rest" target="1.5" />
-      <module name="webservices.rest-omod" target="1.6" />
-      <module name="webservices.rest-omod-1.10" target="1.6" />
-      <module name="webservices.rest-omod-1.11" target="1.6" />
-      <module name="webservices.rest-omod-1.8" target="1.6" />
-      <module name="webservices.rest-omod-1.9" target="1.6" />
-      <module name="webservices.rest-omod-2.0" target="1.6" />
-      <module name="webservices.rest-omod-common" target="1.6" />
+      <module name="webservices.rest-omod" target="1.5" />
+      <module name="webservices.rest-omod-1.10" target="1.5" />
+      <module name="webservices.rest-omod-1.11" target="1.5" />
+      <module name="webservices.rest-omod-1.8" target="1.5" />
+      <module name="webservices.rest-omod-1.9" target="1.5" />
+      <module name="webservices.rest-omod-2.0" target="1.5" />
+      <module name="webservices.rest-omod-common" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

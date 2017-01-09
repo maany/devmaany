@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/tools/openmrs-tools.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/tools/openmrs-tools.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/web/openmrs-web.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/web/openmrs-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OpenMRS/openmrs-core/webapp/openmrs-webapp.iml" filepath="$PROJECT_DIR$/../OpenMRS/openmrs-core/webapp/openmrs-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OpenMRS/release/openmrs-distro-platform/platform.iml" filepath="$PROJECT_DIR$/../OpenMRS/release/openmrs-distro-platform/platform.iml" />
       <module fileurl="file://$PROJECT_DIR$/../AppEngineTest/springwebapp.iml" filepath="$PROJECT_DIR$/../AppEngineTest/springwebapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/webservices.rest.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/webservices.rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod/webservices.rest-omod.iml" filepath="$PROJECT_DIR$/../OpenMRS/modules/openmrs-module-webservices.rest/omod/webservices.rest-omod.iml" />
